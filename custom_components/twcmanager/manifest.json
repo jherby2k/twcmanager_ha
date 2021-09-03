@@ -1,0 +1,14 @@
+{
+  "domain": "twcmanager",
+  "name": "TWCManager",
+  "version": "1.0.0",
+  "config_flow": true,
+  "documentation": "https://github.com/jherby2k/twcmanager_ha",
+  "issue_tracker": "https://github.com/jherby2k/twcmanager_ha/issues",
+  "requirements": ["twcmanager_client==0.4.0"],
+  "codeowners": [
+    "@jherby2k"
+  ],
+  "iot_class": "local_polling",
+  "quality_scale": "silver"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "TWCManager",
+    "hacs": "1.6.0",
+    "domains": [
+        "sensor"
+    ],
+    "homeassistant": "2021.9.0"
+  }
